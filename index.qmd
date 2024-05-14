@@ -1,6 +1,5 @@
 ---
-title: "Data Analysis | Financial Insights"
-subtitle: "Work Dashboard"
+title: "Comprehensive Financial Insights Dashboard"
 format: 
   revealjs:
     slide-level: 1
