@@ -1,0 +1,84 @@
+---
+title: "Data Analysis | Financial Insights"
+subtitle: "Work Dashboard"
+format: 
+  revealjs:
+    slide-level: 1
+    theme: default
+    slide-number: c/t
+    controls: true
+    controlsTutorial: true
+    controlsLayout: 'edges'
+    controlsBackArrows: 'visible'
+    showSlideNumber: 'all'
+    fullscreen: true
+---
+## Project Overview
+
+<div style="font-size:32px">
+
+### Objective
+Provide a tool for a small business owner to closely monitor company and personal expenses and earnings.
+
+### Product
+**Customized Financial Analysis Portal**  
+Hosted on Obsidian Publish, this portal offers restricted access to an interactive dashboard and financial reports.
+
+</div>
+
+---
+
+#### Key Tools
+
+<div style="font-size:32px">
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white) 
+![Google Looker Studio](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
+
+</div>
+
+
+## Workflow
+
+<div style="font-size:28px">
+
+### 1. Data Access and Extraction
+The client accesses their accounts to obtain the necessary financial data. This data is extracted and saved as PDFs.
+
+### 2. Data Normalization and Categorization
+The extracted data is transcribed and normalized into a Google Sheets document using a PDF data extraction tool. Then, the data is categorized to facilitate analysis.
+
+### 3. Dashboard Creation and Data Analysis
+Using Looker, a dashboard is configured to access the categorized data in Google Sheets, displaying various visualizations.
+
+### 4. Publication and Access to Analyses
+The analyses are compiled and published on the Obsidian site, allowing secure and easy access to financial insights.
+
+</div>
+
+---
+
+## Dashboard
+
+<div style="font-size:32px">
+
+<iframe width="1068" height="600" src="https://lookerstudio.google.com/embed/reporting/9a66cfca-32bd-4208-94a7-2c0dc54d0c53/page/XhZrD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
+<div style="font-size:20px; margin-top:10px;">
+*Note: On the left side of the dashboard, you can navigate to page 2 to view visualizations of expenses by category.*
+</div>
+</div>
+
+
+---
+
+## Connect with Me
+
+<div style="justify-content: center; align-items: center; height: 100%;">
+
+**Name**: João Fenerich
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlfenerich) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlafenerich)
+
+</div>
