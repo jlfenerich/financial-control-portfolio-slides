@@ -10,7 +10,8 @@ format:
     controlsLayout: 'edges'
     controlsBackArrows: 'visible'
     showSlideNumber: 'all'
-    fullscreen: true
+filters:
+  - code-fullscreen
 ---
 ## Project Overview
 
