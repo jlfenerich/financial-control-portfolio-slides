@@ -40,7 +40,7 @@ Hosted on Obsidian Publish, this portal offers restricted access to an interacti
 
 ## Workflow
 
-<div style="font-size:28px">
+<div style="font-size:24px">
 
 ### 1. Data Access and Extraction
 The client accesses their accounts to obtain the necessary financial data. This data is extracted and saved as PDFs.
@@ -58,7 +58,7 @@ The analyses are compiled and published on the Obsidian site, allowing secure an
 
 ---
 
-## Dashboard
+### Dashboard
 
 <div style="font-size:32px">
 
